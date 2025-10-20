@@ -20,7 +20,7 @@ pip install requests
 
 ```
 
-##Usage
+## Usage
 
 1. Get your profundis.io API key from https://profundis.io/profile
 
