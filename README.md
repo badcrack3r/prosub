@@ -1,10 +1,10 @@
-# 🧩 prosub
+## prosub
 
 **prosub** is a simple CLI tool that retrieves subdomains from the [Profundis](https://profundis.io) API.  
 
 
 
-## ⚙️ Installation
+##  Installation
 
 ```
 git clone https://github.com/badcrack3r/prosub.git
@@ -20,7 +20,7 @@ pip install requests
 
 ```
 
-🚀 Usage
+##Usage
 
 1. Get your profundis.io API key from https://profundis.io/profile
 
